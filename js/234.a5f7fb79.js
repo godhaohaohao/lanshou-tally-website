@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhao_jizhang"]=self["webpackChunkhao_jizhang"]||[]).push([[234],{3234:function(t,n,o){o.r(n),o.d(n,{default:function(){return i}});var u=function(){var t=this,n=t._self._c;return n("div",{staticClass:"NotFound"},[n("h2",[t._v("您要找的页面不存在")]),n("button",{on:{click:t.toHome}},[t._v("返回首页")])])},e=[],s=(o(7658),{methods:{toHome(){this.$router.push("/")}}}),h=s,a=o(1001),c=(0,a.Z)(h,u,e,!1,null,"1fc9bfbb",null),i=c.exports}}]);
+//# sourceMappingURL=234.a5f7fb79.js.map
